@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    font-size: 12pt;
+    font-weight: 400;
+    color: #333;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: skyblue;
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+
+main {
+    width: 100%;
+    padding: 30px 100px;
+    box-sizing: border-box;
+}
+
+footer {
+    color: white;
+    background-color: royalblue;
+    text-align: center;
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 3.5rem;
+    margin: 0px 0px 10px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: justify;
+    margin: .5rem 0px;
+}
+
+img {
+    width: 25px;
+    margin: 10px 0px;
+}
+
